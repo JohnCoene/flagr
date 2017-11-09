@@ -1,0 +1,6 @@
+dependencies:
+ - name: flag-icon
+   version: 2.8.0
+   src: htmlwidgets/lib/flag-icon-2.8.0
+   script:
+   stylesheet: flag-icon.min.css

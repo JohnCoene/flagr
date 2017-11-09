@@ -1,0 +1,15 @@
+Package: flagr
+Title: CSS flag icons for R
+Version: 0.0.0.9000
+Authors@R: person("John", "Coene", email = "jcoenep@gmail.com", role = c("aut", "cre"))
+Description: CSS flag icons for R.
+Depends: R (>= 3.4.2)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    htmlwidgets,
+    htmltools
+RoxygenNote: 6.0.1
+Suggests: covr,
+    testthat
