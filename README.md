@@ -1,5 +1,5 @@
 
-[![Travis-CI Build Status](https://travis-ci.org/JohnCoene/flagr.svg?branch=master)](https://travis-ci.org/JohnCoene/flagr)[![Coverage Status](https://img.shields.io/coveralls/JohnCoene/flagr.svg)](https://coveralls.io/r/JohnCoene/flagr?branch=master)[![Coverage Status](https://img.shields.io/codecov/c/github/JohnCoene/flagr/master.svg)](https://codecov.io/github/JohnCoene/flagr?branch=master)
+[![Travis-CI Build Status](https://travis-ci.org/JohnCoene/flagr.svg?branch=master)](https://travis-ci.org/JohnCoene/flagr)[![Coverage Status](https://img.shields.io/coveralls/JohnCoene/flagr.svg)](https://coveralls.io/r/JohnCoene/flagr?branch=master)![Coverage](https://img.shields.io/codecov/c/github/JohnCoene/flagr/master.svg)
 
 flagr
 =====
