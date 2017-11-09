@@ -33,7 +33,7 @@ FYI
 
 Flag icons are SVG, leading to large `/inst` directory.
 
-``` r
+``` 
 R CMD check results
 0 errors | 0 warnings | 1 note 
 checking installed package size ... NOTE
